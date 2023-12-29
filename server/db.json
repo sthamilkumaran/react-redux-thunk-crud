@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name":"Tamil",
+            "adderess": "Mullaiththivu",
+            "email":"balapriyanka70@gmail.com",
+            "contact":"0752379829",
+            "id": 1
+        },
+        {
+            "name":"Tamil2",
+            "adderess": "Mullaiththivu2",
+            "email":"balapriyanka702@gmail.com",
+            "contact":"2752379829",
+            "id": 2
+        },{
+            "name":"Tamil3",
+            "adderess": "Mullaiththivu3",
+            "email":"balapriyanka703@gmail.com",
+            "contact":"3752379829",
+            "id": 3
+        }
+    ]
+}
